@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PaimonDiscord](https://github.com/PaimonBot)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** & SQLite
 
 - 💬 Ask me about **Discord.py**
 
